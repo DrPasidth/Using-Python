@@ -1,0 +1,34 @@
+การติดตั้ง jupyter notebook สำหรับ python programming
+
+1. ทำการติดตั้ง jupyter notebook โดยใช้ Anaconda Distribution
+ไปที่ https://www.anaconda.com/distribution/#download-section
+เลื่อนลงมา และเลือก Windows แล้วคลิกเลือกเวอร์ชั่นที่จะติดั้ง
+ 
+
+ 
+
+2. หลังจากติดตั้งเสร็จ เปิดโปรแกรม Anaconda
+Windows
+From the Start menu, click the Anaconda Navigator desktop app.
+ 
+
+2. Run python in spyder IDE
+เมื่อ run appAnaconda จะได้หน้าจอดังนี้
+ 
+1. Install Spyder
+2. Launch Spyder
+ 
+
+3. ทดลองเขียนคำสั่ง ในหน้าจอขวามือ
+Print (“Hi good morning”)
+4. กดปุ่ม ลูกศรขวา > บนแถบคำสั่ง เพื่อ run program
+
+ 
+
+จะได้ผลลัพธ์ในช่องหน้าต่างซ้ายมือล่าง
+ 
+
+5. Save file 
+6. ดูรายละเอียดการใช้งานเพิ่มเติมที่
+https://docs.spyder-ide.org/
+
